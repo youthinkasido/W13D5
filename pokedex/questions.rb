@@ -1,0 +1,1 @@
+#shortcut to generate an API controller?
