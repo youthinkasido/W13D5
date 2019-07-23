@@ -10,7 +10,7 @@ json.guests @party.guests do |guest|
 end
 
 
-
+ 
 
 
 

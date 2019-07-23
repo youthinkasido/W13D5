@@ -4,3 +4,5 @@
     json.image_url asset_path(poke.image_url)
   end
 end
+
+

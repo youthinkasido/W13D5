@@ -11,3 +11,4 @@ class Api::PokemonController < ApplicationController
     end
 
 end
+
